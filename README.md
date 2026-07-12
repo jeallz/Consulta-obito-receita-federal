@@ -20,7 +20,7 @@ CPF, DATA_NASC
 
 sendo o CPF e Data de Nascimento dos mesmos.
 
-imagem demonstrativa:
+imagem demonstrativa: <br>
 <img width="291" height="120" alt="image" src="https://github.com/user-attachments/assets/dc3c1040-c2d9-48f4-ad1e-e8708d098aeb" />
 
 ## Execução

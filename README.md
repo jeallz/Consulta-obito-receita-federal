@@ -40,3 +40,11 @@ Burlar captchas de segurança, principalmente em sites governamentais como o da 
 Eu não sou responsável por como e porque você utilizará desse sistema e nem pelos dados obtidos através do mesmo!
 
 O sistema possuí um delay entre as consultas para evitar qualquer bloqueio.
+
+## Links úteis
+
+Site das Consultas da Receita: <br>
+[https://servicos.receita.fazenda.gov.br/servicos/cpf/consultasituacao/consultapublica.asp](https://servicos.receita.fazenda.gov.br/servicos/cpf/consultasituacao/consultapublica.asp)
+<br><br>
+Lei Geral de Proteção de Dados, 2018 (LEI Nº 13.709, DE 14 DE AGOSTO DE 2018):<br>
+[https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm)
